@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @grid-coder
+👋 Hi, I’m @grid-coder
